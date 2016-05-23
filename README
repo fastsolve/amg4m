@@ -1,4 +1,4 @@
 This module contains geometric and algebraic multigrid solvers for FEM, 
 AES-FEM and GFD. 
 
-It depends on MPETSc and MSPACK.
+It depends on MPETSc, MSPACK, MACC, MAHF, and MDISC.
